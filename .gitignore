@@ -28,6 +28,7 @@ target/
 /logs
 /.nb-gradle/
 build/
+/src/main/resources
 !**/src/main/**/build/
 !**/src/test/**/build/
 
