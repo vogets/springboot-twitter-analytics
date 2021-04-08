@@ -2,6 +2,7 @@ HELP.md
 target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
+!**/src/main/resources/twitter4j.properties
 !**/src/test/**/target/
 
 ### STS ###
@@ -24,6 +25,7 @@ target/
 /nbbuild/
 /dist/
 /nbdist/
+/logs
 /.nb-gradle/
 build/
 !**/src/main/**/build/
